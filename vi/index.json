@@ -1,0 +1,71 @@
+[
+{
+	"uri": "/vi/",
+	"title": "AWS Certification",
+	"tags": [],
+	"description": "",
+	"content": "Chứng nhận AWS - Xác thực các kỹ năng kỹ thuật và kiến ​​thức chuyên môn về AWS Cloud để phát triển sự nghiệp và doanh nghiệp của bạn Nội dung  NỀN TẢNG   AWS Certified Cloud Practitioner Chứng nhận dựa trên kiến ​​thức để hiểu biết cơ bản về AWS Cloud. Không cần kinh nghiệm trước đó.    "
+},
+{
+	"uri": "/vi/1-foundational/1.1-awsccpe/",
+	"title": "AWS Certified Cloud Practitioner (CLF-C01) Exam",
+	"tags": [],
+	"description": "",
+	"content": "AWS Certified Cloud Practitioner (CLF-C01) Exam Giới thiệu Kỳ thi AWS Certified Cloud Practitioner (CLF-C01) dành cho những cá nhân vận dụng hiểu quả kiến ​​thức tổng thể về AWS Cloud. Bài kiểm tra xác nhận khả năng của ứng viên hệ thống kiến thức tổng quan sau:\n Giải thích giá trị của AWS Cloud. Hiểu và giải thích mô hình trách nhiệm chung của AWS. Hiểu các thực tiễn tốt nhất về bảo mật. Hiểu về chi phí, tính kinh tế và thực tiễn thanh toán của AWS Cloud. Mô tả và định vị các dịch vụ AWS cốt lõi, bao gồm điện toán, mạng, cơ sở dữ liệu và lưu trữ. Xác định các dịch vụ AWS cho các trường hợp sử dụng phổ biến.  Tổng quan về kỳ thi  Cấp độ: Cơ bản Thời lượng: 90 phút để hoàn thành bài thi Chi phí: 100 USD Định dạng: 65 câu hỏi; nhiều lựa chọn hoặc nhiều câu trả lời Phương thức tham gia: Trung tâm kiểm tra Pearson VUE hoặc kỳ thi giám sát trực tuyến.  Mục tiêu (thời gian) đạt chứng chỉ Ứng viên cần phải có 6 tháng, hoặc tương đương, tương tác tích cực với AWS Cloud, tiếp xúc với thiết kế, triển khai và/hoặc vận hành AWS Cloud. Các ứng viên sẽ thể hiện sự hiểu biết về các giải pháp AWS Cloud được thiết kế tốt.\nKiến thức AWS được đề xuất Ứng viên cần có kiến ​​​​thức sau:\n Khái niệm AWS Cloud Bảo mật và tuân thủ trong AWS Cloud Hiểu biết về các dịch vụ cốt lõi của AWS Hiểu biết về tính kinh tế của AWS Cloud  Nội dung bài thi Có hai loại câu hỏi trong bài thi:\n Câu hỏi trắc nghiệm: Có một câu trả lời đúng và ba câu trả lời sai. Nhiều câu trả lời: Có hai câu trả lời đúng trở lên trong số năm câu trả lời.  Nội dung chưa được chấm điểm Bài kiểm tra bao gồm 15 câu hỏi không được tính điểm không ảnh hưởng đến điểm số của bạn. AWS thu thập thông tin về hiệu suất của ứng viên đối với những câu hỏi chưa được chấm điểm này để đánh giá những câu hỏi này để sử dụng làm câu hỏi được chấm điểm trong tương lai. Những câu hỏi không được tính điểm này không được xác định trong bài kiểm tra.\nChuẩn bị cho kỳ thi của bạn  AWS Certified Cloud Practitioner Exam Guide AWS Certified Cloud Practitioner Sample Questions AWS Certified Cloud Practitioner Official Practice Question Set Exam Prep: AWS Certified Cloud Practitioner Exam Readiness: AWS Certified Cloud Practitioner  Các bài thực hành từ First Cloud Journey nhằm nâng cao kiến thức lẫn kỹ năng hỗ trợ khách hàng.  Cloud Quest - Cloud Citizen giúp người thực hành trang bị kiến thức tổng quan về các dịch vụ AWS Cloud, đồng thời hiểu rõ về các giải pháp thiết kế cho từng dịch vụ. Tạo tài khoản AWS giúp người học biết cách tạo một tài khoản AWS, tạo IAM group, user và cách phân quyền lẫn các best practice khi sử dụng AWS Cloud. Quản lý chi phí với AWS Budget quản lý chi phí là điều quan trọng cần học và thực hành khi học AWS Cloud. Yệu cầu hỗ trợ với AWS Support: Sử dụng AWS Support hỗ trợ người mới tiếp cận AWS một cách dễ dàng trong quá trình học và làm việc. Chọn kích thước EC2 chính xác : Chọn đúng EC2 instance type là một câu hỏi khó đối với người mới tiếp cận AWS. Trực quan hóa chi phí : Cách xem hóa đơn, chi phí thanh toán cho từng dịch vụ AWS theo tháng. quý, năm. Thống kê chi phí từng dịch vụ AWS. Savings Plan, Reserved Instance và Reserved DB Instance Yêu cầu tăng mức giới hạn của AWS khi bị giới hạn tài nguyên, người mới tiếp cận AWS cần phải biết và sử dụng để tăng hiệu quả sử dụng dịch vụ AWS. Quản trị chi phí và sử dụng tài nguyên với IAM trên AWS ngoài sử dụng AWS budget, bạn cần phải dùng IAM để quản lý tài nguyên để tiết kiệm chi phí. Ủy quyền quyền truy cập vào bảng điều khiển thanh toán Vấn đề quản trị và vận hành tài khoản AWS rất quan trọng.  "
+},
+{
+	"uri": "/vi/2-associate/2.1-awssaa/",
+	"title": "AWS Certified Solutions Architect - Associate",
+	"tags": [],
+	"description": "",
+	"content": "AWS Certified Solutions Architect - Associate AWS Certified Solutions Architect - Associate thể hiện kiến ​​thức và kỹ năng về công nghệ AWS trên nhiều loại dịch vụ AWS. Trọng tâm của chứng nhận này là thiết kế các giải pháp tối ưu hóa chi phí và hiệu suất, thể hiện sự hiểu biết sâu sắc về Khung kiến ​​trúc tối ưu AWS. Chứng nhận này có thể nâng cao hồ sơ nghề nghiệp và thu nhập của các cá nhân được chứng nhận, đồng thời tăng uy tín và sự tự tin của bạn trong các tương tác với các bên liên quan và khách hàng.\nTổng quan về kỳ thi  Cấp độ: Cộng tác viên Thời lượng: 130 phút để hoàn thành bài thi Chi phí: 150 USD Hình thức: 65 câu hỏi trắc nghiệm. Phương thức tham gia thi: Trung tâm kiểm tra Pearson VUE hoặc kỳ thi giám sát trực tuyến.  Ai nên tham dự kỳ thi này? AWS Certified Solutions Architect - Associate là điểm khởi đầu tuyệt vời trên lộ trình Chứng nhận AWS dành cho những cá nhân có thể có bất kỳ đặc điểm nào sau đây:\n Kinh nghiệm về công nghệ AWS Kinh nghiệm CNTT on-premises và hiểu biết về đối chiếu on-premises lên AWS Cloud. Kinh nghiệm làm việc trong các dịch vụ Cloud khác.  Kiến thức đề xuất:  Kiến thức và kỹ năng về điện toán, kết nối mạng, lưu trữ và cơ sở dữ liệu Các dịch vụ AWS cũng như các dịch vụ quản lý và triển khai AWS Kiến thức và kỹ năng triển khai, quản lý và vận hành khối lượng công việc trên AWS cũng như triển khai các yêu cầu tuân thủ và kiểm soát bảo mật Kiến thức và kỹ năng sử dụng Bảng điều khiển quản lý AWS và Giao diện dòng lệnh AWS (CLI) Hiểu biết về Khung kiến ​​trúc tối ưu AWS, kết nối mạng AWS, dịch vụ bảo mật và cơ sở hạ tầng toàn cầu của AWS Khả năng xác định dịch vụ AWS nào đáp ứng yêu cầu kỹ thuật nhất định và xác định yêu cầu kỹ thuật cho ứng dụng dựa trên AWS.  Chuẩn bị cho kỳ thi của bạn  AWS Certified Solutions Architect - Associate Exam Guide AWS Certified Solutions Architect - Associate Sample Questions AWS Certified Solutions Architect - Associate Official Practice Question Set Exam Readiness: AWS Certified Solutions Architect - Associate Exam Prep: AWS Certified Solutions Architect - Associate AWS Well-Architected Framework  FAQs  Amazon EC2 Amazon S3 Amazon VPC Amazon Route 53 Amazon RDS Amazon SQS  Hands-on Labs:  Begin with AWS IAM Begin with AWS VPC Begin with AWS EC2 Begin with AWS RDS Triển khai ứng dụng FCJ với Auto Scaling Group Quản lý tài nguyên với Amazon Cloudwatch Hybrid DNS Làm quen với AWS CLI Backup với AWS Backup Amazon VPC Peering Transit Gateway Optimize EC2 Cost với Lambda Storage Gateway FSX AWS KMS Workshop Datalake trên AWS Phân tích chi phí và hiệu năng sử dụng với AWS Glue và Amazon Athena AWS DMS and SCT Begin with S3 Làm việc với SNS Begin with DynamoDB Begin with ElastiCache Storage Performance S3 Security Best Practice SQS and SNS ( Message Filtering ) AWS Elastic Disaster Recovery Workshop  "
+},
+{
+	"uri": "/vi/1-foundational/",
+	"title": "AWS FOUNDATIONAL",
+	"tags": [],
+	"description": "",
+	"content": "FOUNDATIONAL "
+},
+{
+	"uri": "/vi/2-associate/",
+	"title": "AWS ASSOCIATE",
+	"tags": [],
+	"description": "",
+	"content": "AWS ASSOCIATE "
+},
+{
+	"uri": "/vi/3-professional/",
+	"title": "AWS PROFESSIONAL",
+	"tags": [],
+	"description": "",
+	"content": "AWS PROFESSIONAL "
+},
+{
+	"uri": "/vi/2-associate/2.2-awsdeveloper/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/vi/2-associate/2.3-awssysops/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/vi/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/vi/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

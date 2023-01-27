@@ -1,0 +1,71 @@
+[
+{
+	"uri": "/",
+	"title": "AWS Certification",
+	"tags": [],
+	"description": "",
+	"content": "AWS Certification - Validate technical skills and cloud expertise to grow your career and business. Earn an industry-recognized credential There are more than one million active AWS Certifications, a number that grew more than 29% over the past year. More than 650K individuals hold associate, professional, or specialty AWS certifications. AWS Certification validates cloud expertise to help professionals highlight in-demand skills and organizations build effective, innovative teams for cloud initiatives using AWS. Choose from diverse certification exams by role and specialty designed to empower individuals and teams to meet their unique goals.\nExplore our role-based certifications for those in Cloud Practitioner, Architect, Developer, and Operations roles, as well as our Specialty certifications in specific technical areas.\nContent   FOUNDATIONAL: Knowledge-based certification for foundational understanding of AWS Cloud. No prior experience needed.\n AWS Certified Cloud Practitioner    ASSOCIATE : Role-based certifications that showcase your knowledge and skills on AWS and build your credibility as an AWS Cloud professional. Prior cloud and/or strong on-premises IT experience recommended.\n AWS Certified Solutions Architect - Associate AWS Certified Developer - Associate AWS Certified SysOps Administrator - Associate    PROFESSIONAL: Role-based certifications that validate advanced skills and knowledge required to design secure, optimized, and modernized applications and to automate processes on AWS. 2 years of prior AWS Cloud experience recommended.\n AWS Certified Solutions Architect - Professional AWS Certified DevOps Engineer - Professional    "
+},
+{
+	"uri": "/1-foundational/1.1-awsccpe/",
+	"title": "AWS Certified Cloud Practitioner (CLF-C01) Exam",
+	"tags": [],
+	"description": "",
+	"content": "AWS Certified Cloud Practitioner (CLF-C01) Exam Introduction The AWS Certified Cloud Practitioner (CLF-C01) exam is intended for individuals who can effectively demonstrate an overall knowledge of the AWS Cloud independent of a specific job role. The exam validates a candidate’s ability to complete the following tasks:\n Explain the value of the AWS Cloud Understand and explain the AWS shared responsibility model Understand security best practices Understand AWS Cloud costs, economics, and billing practices Describe and position the core AWS services, including compute, network, databases, and storage Identify AWS services for common use cases.  Exam overview  Level: Foundational Length: 90 minutes to complete the exam Cost: 100 USD Format: 65 questions; either multiple choice or multiple response Delivery method: Pearson VUE testing center or online proctored exam.  Target candidate description The target candidate should have 6 months, or the equivalent, of active engagement with the AWS Cloud, with exposure to AWS Cloud design, implementation, and/or operations. Candidates will demonstrate an understanding of well-designed AWS Cloud solutions.\nRecommended AWS knowledge The target candidate should have the following knowledge:\n AWS Cloud concepts Security and compliance within the AWS Cloud Understanding of the core AWS services Understanding of the economics of the AWS Cloud  Exam content Response types There are two types of questions on the exam:\n Multiple choice: Has one correct response and three incorrect responses (distractors) Multiple response: Has two or more correct responses out of five or more response options  Unscored content The exam includes 15 unscored questions that do not affect your score. AWS collects information about candidate performance on these unscored questions to evaluate these questions for future use as scored questions. These unscored questions are not identified on the exam.\nPrepare for your exam  AWS Certified Cloud Practitioner Exam Guide AWS Certified Cloud Practitioner Sample Questions AWS Certified Cloud Practitioner Official Practice Question Set Exam Prep: AWS Certified Cloud Practitioner Exam Readiness: AWS Certified Cloud Practitioner  Practical lessons from First Cloud Journey to improve customer support knowledge and skills.  Cloud Quest - Cloud Citizen helps practitioners equip themselves with an overview of AWS Cloud services and a clear understanding of design solutions for each service. Create an AWS Account teaches learners how to create an AWS account, create IAM groups, users, and how to delegate permissions and best practices when using AWS Cloud. Expense Management with AWS Budget Expense management is important to learn and practice when learning AWS Cloud. Request support with AWS Support: Using AWS Support helps newcomers to easily access AWS in learning and working process. Choose the correct EC2 size : Choosing the right EC2 instance type is a difficult question for someone new to AWS. Expense Visualization : How to view invoices, payment costs for each AWS service by month. year quarter. Cost statistics for each AWS service. Savings Plan, Reserved Instance and Reserved DB Instance AWS limit increase request When resources are limited, newcomers to AWS need to know and use to increase efficiency. AWS services. Manage resource usage and costs with IAM on AWS In addition to using AWS budget, you need to use IAM to manage resources to save money expense. Authorize access to the billing console AWS account administration and operation is very important.  "
+},
+{
+	"uri": "/2-associate/2.1-awssaa/",
+	"title": "AWS Certified Solutions Architect - Associate",
+	"tags": [],
+	"description": "",
+	"content": "AWS Certified Solutions Architect - Associate "
+},
+{
+	"uri": "/1-foundational/",
+	"title": "AWS FOUNDATIONAL",
+	"tags": [],
+	"description": "",
+	"content": "FOUNDATIONAL "
+},
+{
+	"uri": "/2-associate/",
+	"title": "AWS ASSOCIATE",
+	"tags": [],
+	"description": "",
+	"content": "AWS ASSOCIATE "
+},
+{
+	"uri": "/3-professional/",
+	"title": "AWS PROFESSIONAL",
+	"tags": [],
+	"description": "",
+	"content": "AWS PROFESSIONAL "
+},
+{
+	"uri": "/2-associate/2.2-awsdeveloper/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/2-associate/2.3-awssysops/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
